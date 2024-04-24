@@ -1,3 +1,7 @@
+/**
+ * @file 浏览器开发者工具tab内容
+ */
+
 import { createApp } from 'vue'
 import App from './DevTools.vue'
 
